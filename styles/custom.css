@@ -163,7 +163,7 @@ h4 {
 
 @media screen and (max-width: 767px) {
 	.small-screen {
-		font-size: 4rem;
+		font-size: 4.25rem;
 	}
 	.address {
 		font-size: 18px;
@@ -203,3 +203,8 @@ p {
 .format-medium {
 	line-height: 120px;
 }
+
+.format-large {
+	line-height: 500px;
+}
+
