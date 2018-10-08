@@ -126,6 +126,7 @@ h1 {
 	font-family: 'Oswald', sans-serif;
 	font-size: 5rem;
 	color: #165151;
+	text-transform: uppercase;
 	
 }
 h5 {
@@ -193,4 +194,8 @@ p {
 
 .small-text {
 	font-family: 'Work Sans', sans-serif;
+}
+
+.format {
+	line-height: 420px;
 }
