@@ -199,3 +199,7 @@ p {
 .format {
 	line-height: 420px;
 }
+
+.format-medium {
+	line-height: 120px;
+}
